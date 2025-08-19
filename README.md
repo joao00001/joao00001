@@ -33,14 +33,10 @@
 ### 📈 Histórico de Contribuições
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joao00001&theme=dracula&hide_border=true&area=true&line=61DAFB&point=FFFFFF" alt="Gráfico de Atividade de Contribuições"/>
-</p>
-
-<p align="center">
-  <em>A animação abaixo requer uma configuração única. Veja a observação no final!</em>
+  <em>Um resumo visual do meu último ano de atividades no GitHub.</em>
 </p>
 <p align="center">
-  <img src="https://github.com/joao00001/joao00001/blob/output/github-contribution-grid-snake.svg" alt="Animação Snake das Contribuições"/>
+  <img src="https://ghchart.rshah.org/joao00001" alt="Calendário de Contribuições de joao00001" />
 </p>
 
 ---
