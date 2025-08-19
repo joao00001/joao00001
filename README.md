@@ -4,7 +4,7 @@
   Estudante de engenharia da computação | Desenvolvedor Fullstack nas horas vagas | Entusiasta do Front-end
 </p>
 
-#Sobre mim:
+# Sobre mim:
 
 - Estudante de engenharia da computação
 - Estudando Js, Python e me aprofundando em bancos NoSql
