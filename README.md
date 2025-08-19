@@ -15,15 +15,13 @@
 
 ---
 
-### 🛠️ Habilidades e Ferramentas
+### Linguagens e Ferramentas
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,python,java,html,css,tailwind,styledcomponents,git,github,vscode,figma" alt="Habilidades e Ferramentas"/>
 </p>
 
 ---
-
-### 📈 Histórico de Contribuições
 
 <p align="center">
   <img src="https://ghchart.rshah.org/joao00001" alt="Calendário de Contribuições de joao00001" />
