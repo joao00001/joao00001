@@ -1,95 +1,52 @@
-# Olá, eu sou [Seu Nome]! 👋
+# Olá, eu sou João Marcelo Detomini 👋
 
-### 👨‍💻 Sobre Mim
-<p align="left">
-  Sou um(a) [Sua Profissão, ex: Desenvolvedor Full-Stack, Estudante de Engenharia de Software, etc.] apaixonado(a) por [Sua Paixão, ex: criar soluções inovadoras, tecnologia e programação]. Estou sempre buscando aprender e me aprimorar.
-</p>
+Sou futuro engenheiro da computação e me dedico como desenvolvedor **Fullstack** nas horas vagas (e nas não tão vagas também!).
 
 ---
 
-### 🚀 Meus Principais Projetos
-<p align="left">
-  Abaixo estão alguns dos projetos que mais me orgulho. Eles representam meu conhecimento e dedicação. Sinta-se à vontade para explorar!
-</p>
+##  Estatísticas & Conquistas
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <h3 align="left">📌 Nome do Projeto 1</h3>
-      <p align="left">
-        Breve descrição do seu projeto. Fale sobre o objetivo, as tecnologias utilizadas e o que você aprendeu. Tente ser conciso e direto.
-      </p>
-      <div align="left">
-        <a href="URL_PARA_O_REPOSITORIO_1" target="_blank">
-          <img src="https://img.shields.io/badge/Código-000000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="URL_PARA_O_DEPLOY_1" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Online-4B8BBE?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </div>
-    </td>
-    <td width="50%">
-      <a href="URL_PARA_O_DEPLOY_1" target="_blank">
-        <img width="100%" src="URL_PARA_UMA_IMAGEM_OU_GIF_DO_PROJETO_1" alt="Demonstração do Projeto 1">
-      </a>
-    </td>
-  </tr>
-</table>
+<!-- GitHub Readme Stats Card -->
+[![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joao00001&show_icons=true&theme=radical)](https://github.com/joao00001)
 
-<table width="100%">
-  <tr>
-    <td width="50%">
-      <a href="URL_PARA_O_DEPLOY_2" target="_blank">
-        <img width="100%" src="URL_PARA_UMA_IMAGEM_OU_GIF_DO_PROJETO_2" alt="Demonstração do Projeto 2">
-      </a>
-    </td>
-    <td width="50%">
-      <h3 align="left">📌 Nome do Projeto 2</h3>
-      <p align="left">
-        Breve descrição do seu projeto. Fale sobre o objetivo, as tecnologias utilizadas e o que você aprendeu. Tente ser conciso e direto.
-      </p>
-      <div align="left">
-        <a href="URL_PARA_O_REPOSITORIO_2" target="_blank">
-          <img src="https://img.shields.io/badge/Código-000000?style=for-the-badge&logo=github&logoColor=white" />
-        </a>
-        <a href="URL_PARA_O_DEPLOY_2" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20Online-4B8BBE?style=for-the-badge&logo=vercel&logoColor=white" />
-        </a>
-      </div>
-    </td>
-  </tr>
-</table>
+<!-- Top Languages Card -->
+[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joao00001&layout=compact&langs_count=5&theme=radical)](https://github.com/joao00001)
+
+> Esses cards são gerados dinamicamente via [GitHub Readme Stats] e mostram suas contribuições, estrelas, commits e linguagens mais usadas :contentReference[oaicite:0]{index=0}.
 
 ---
 
-### 🛠️ Habilidades e Ferramentas
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,ts,react,nextjs,nodejs,html,css,tailwind,styledcomponents,git,github" />
-</p>
+##  Histórico de Contribuições
+
+- **Repositórios populares:**
+  - **Agenda-online-Front-end**: Fork baseado no projeto de Leonardokinouchi — foco em interface web com HTML/CSS/JS. :contentReference[oaicite:1]{index=1}
+  - **ResolucoesLivros**: Repositório para armazenar resoluções de exercícios de livros. :contentReference[oaicite:2]{index=2}
+  - **iMessage**: App de mensagens instantâneas com ênfase em privacidade, usando React e Node.js com WebSockets. :contentReference[oaicite:3]{index=3}
+  - **kinesis-Clean-Room-Implementation**: Projeto de esqueleto de rede social com experiência fluida e responsiva em JavaScript. :contentReference[oaicite:4]{index=4}
 
 ---
 
-### 📊 Minhas Estatísticas do GitHub
-<p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU-USUARIO&layout=compact&langs_count=7&theme=dracula"/>
-</p>
+##  Habilidades & Ferramentas
+
+| Categoria               | Ferramentas / Tecnologias                        |
+|------------------------|--------------------------------------------------|
+| **Frontend**           | HTML, CSS, JavaScript, React                     |
+| **Backend / Fullstack**| Node.js, APIs, WebSockets                        |
+| **Desenvolvimento**    | Git, GitHub, forks/projetos colaborativos        |
+| **Conceitos**          | Estrutura de redes sociais, foco em UX/UI e privacidade |
 
 ---
 
-### 🐍 Minha Atividade de Contribuições
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=dracula&hide_border=true&area=true" />
-</p>
-<p align="center">
-  <img src="https://github.com/joao00001/joao00001/blob/output/github-contribution-grid-snake.svg" />
-</p>
+##  Como usar este README
 
+1. Copie o conteúdo acima e cole no seu `README.md` no repositório especial (aquilo com o mesmo nome do seu usuário — ex: `joao00001/joao00001`).
+2. Para os cards com estatísticas, certifique-se de ter adicionado o template conforme mostrado em "Estatísticas & Conquistas".
+3. Customize os temas, cores ou estatísticas conforme desejar — veja as [opções do GitHub Readme Stats] :contentReference[oaicite:5]{index=5}.
+4. Atualize o texto das seções para refletir novos projetos ou habilidades conforme sua evolução!
 
 ---
 
-### 📫 Como me encontrar
-<p align="left">
-  <a href="https://linkedin.com/in/SEU-USUARIO-DO-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-  <a href="mailto:SEU-EMAIL@exemplo.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-</p>
+Fique à vontade para ajustar conforme seu estilo ou adicionar badges de projetos, redes sociais, certificações etc. Isso vai dar ainda mais personalidade e clareza ao seu perfil. Bora mostrar pro mundo o desenvolvedor dedicado que você é! 🚀
+
+Se quiser, posso te ajudar a gerar alguns badges personalizados ou com as ferramentas que você mais usa — é só pedir.
+::contentReference[oaicite:6]{index=6}
