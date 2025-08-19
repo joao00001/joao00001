@@ -16,7 +16,7 @@
 ---
 
 ### Linguagens e Ferramentas
---
+---
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,python,java,html,css,tailwind,styledcomponents,git,github,vscode,figma" alt="Habilidades e Ferramentas"/>
