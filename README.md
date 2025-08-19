@@ -26,9 +26,6 @@
 ### 📈 Histórico de Contribuições
 
 <p align="center">
-  <em>Um resumo visual do meu último ano de atividades no GitHub.</em>
-</p>
-<p align="center">
   <img src="https://ghchart.rshah.org/joao00001" alt="Calendário de Contribuições de joao00001" />
 </p>
 
