@@ -4,8 +4,6 @@
   Estudante de engenharia da computação | Desenvolvedor Fullstack nas horas vagas | Entusiasta do Front-end
 </p>
 
----
-
 # Linguagens e Ferramentas
 
 <p align="center">
