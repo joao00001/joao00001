@@ -82,7 +82,7 @@
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=dracula&hide_border=true&area=true" />
 </p>
 <p align="center">
-  <img src="https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg" />
+  <img src="https://github.com/joao00001/joao00001/blob/output/github-contribution-grid-snake.svg" />
 </p>
 
 
