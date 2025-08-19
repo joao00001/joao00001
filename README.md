@@ -77,6 +77,17 @@
 
 ---
 
+### 🐍 Minha Atividade de Contribuições
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SEU-USUARIO&theme=dracula&hide_border=true&area=true" />
+</p>
+<p align="center">
+  <img src="https://github.com/SEU-USUARIO/SEU-USUARIO/blob/output/github-contribution-grid-snake.svg" />
+</p>
+
+
+---
+
 ### 📫 Como me encontrar
 <p align="left">
   <a href="https://linkedin.com/in/SEU-USUARIO-DO-LINKEDIN" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
