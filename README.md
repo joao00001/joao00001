@@ -1,52 +1,53 @@
-# Olá, eu sou João Marcelo Detomini 👋
+# Olá, eu sou o João Marcelo Detomini! 👋
 
-Sou futuro engenheiro da computação e me dedico como desenvolvedor **Fullstack** nas horas vagas (e nas não tão vagas também!).
-
----
-
-##  Estatísticas & Conquistas
-
-<!-- GitHub Readme Stats Card -->
-[![João's GitHub Stats](https://github-readme-stats.vercel.app/api?username=joao00001&show_icons=true&theme=radical)](https://github.com/joao00001)
-
-<!-- Top Languages Card -->
-[![Top Linguagens](https://github-readme-stats.vercel.app/api/top-langs/?username=joao00001&layout=compact&langs_count=5&theme=radical)](https://github.com/joao00001)
-
-> Esses cards são gerados dinamicamente via [GitHub Readme Stats] e mostram suas contribuições, estrelas, commits e linguagens mais usadas :contentReference[oaicite:0]{index=0}.
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=joao00001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas de João Marcelo no GitHub" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao00001&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas por João Marcelo" width="49%"/>
+</p>
 
 ---
 
-##  Histórico de Contribuições
+### 👨‍💻 Sobre Mim
 
-- **Repositórios populares:**
-  - **Agenda-online-Front-end**: Fork baseado no projeto de Leonardokinouchi — foco em interface web com HTML/CSS/JS. :contentReference[oaicite:1]{index=1}
-  - **ResolucoesLivros**: Repositório para armazenar resoluções de exercícios de livros. :contentReference[oaicite:2]{index=2}
-  - **iMessage**: App de mensagens instantâneas com ênfase em privacidade, usando React e Node.js com WebSockets. :contentReference[oaicite:3]{index=3}
-  - **kinesis-Clean-Room-Implementation**: Projeto de esqueleto de rede social com experiência fluida e responsiva em JavaScript. :contentReference[oaicite:4]{index=4}
+<p align="left">
+  Sou João Marcelo Detomini, um futuro engenheiro da computação e desenvolvedor Fullstack nas horas vagas (e nas não tão vagas também!). Busco constantemente transformar ideias em código e solucionar problemas complexos com tecnologia.
+</p>
 
 ---
 
-##  Habilidades & Ferramentas
+### 🛠️ Habilidades e Ferramentas
 
-| Categoria               | Ferramentas / Tecnologias                        |
-|------------------------|--------------------------------------------------|
-| **Frontend**           | HTML, CSS, JavaScript, React                     |
-| **Backend / Fullstack**| Node.js, APIs, WebSockets                        |
-| **Desenvolvimento**    | Git, GitHub, forks/projetos colaborativos        |
-| **Conceitos**          | Estrutura de redes sociais, foco em UX/UI e privacidade |
-
----
-
-##  Como usar este README
-
-1. Copie o conteúdo acima e cole no seu `README.md` no repositório especial (aquilo com o mesmo nome do seu usuário — ex: `joao00001/joao00001`).
-2. Para os cards com estatísticas, certifique-se de ter adicionado o template conforme mostrado em "Estatísticas & Conquistas".
-3. Customize os temas, cores ou estatísticas conforme desejar — veja as [opções do GitHub Readme Stats] :contentReference[oaicite:5]{index=5}.
-4. Atualize o texto das seções para refletir novos projetos ou habilidades conforme sua evolução!
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,python,java,html,css,tailwind,styledcomponents,git,github,vscode,figma" alt="Habilidades e Ferramentas"/>
+</p>
+<p align="center">
+  <sub>**Frontend:** React, Next.js, HTML5, CSS3, JavaScript (ES6+), TypeScript, TailwindCSS</sub>
+  <br>
+  <sub>**Backend:** Node.js, Python, Java</sub>
+  <br>
+  <sub>**Ferramentas:** Git, GitHub, VSCode, Figma</sub>
+</p>
 
 ---
 
-Fique à vontade para ajustar conforme seu estilo ou adicionar badges de projetos, redes sociais, certificações etc. Isso vai dar ainda mais personalidade e clareza ao seu perfil. Bora mostrar pro mundo o desenvolvedor dedicado que você é! 🚀
+### 📈 Histórico de Contribuições
 
-Se quiser, posso te ajudar a gerar alguns badges personalizados ou com as ferramentas que você mais usa — é só pedir.
-::contentReference[oaicite:6]{index=6}
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=joao00001&theme=dracula&hide_border=true&area=true&line=61DAFB&point=FFFFFF" alt="Gráfico de Atividade de Contribuições"/>
+</p>
+
+<p align="center">
+  <em>A animação abaixo requer uma configuração única. Veja a observação no final!</em>
+</p>
+<p align="center">
+  <img src="https://github.com/joao00001/joao00001/blob/output/github-contribution-grid-snake.svg" alt="Animação Snake das Contribuições"/>
+</p>
+
+---
+
+### 📫 Como me encontrar
+
+<p align="left">
+  <a href="https://linkedin.com/in/SEU-USUARIO-AQUI" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  <a href="mailto:SEU-EMAIL-AQUI@example.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+</p>
