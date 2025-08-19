@@ -1,7 +1,7 @@
-# Olá, eu sou o João Marcelo Detomini <3
+# Olá, eu sou o João Marcelo Detomini 💙
 
 <p align="left">
-  Sou João Marcelo Detomini, um futuro engenheiro da computação e desenvolvedor Fullstack nas horas vagas (e nas não tão vagas também!). Busco constantemente transformar ideias em código e solucionar problemas complexos com tecnologia.
+  Estudante de engenharia da computação | Desenvolvedor Fullstack nas horas vagas | Entusiasta do Front-end
 </p>
 
 ---
