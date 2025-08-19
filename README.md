@@ -25,7 +25,7 @@
 ---
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=joao00001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas de João Marcelo no GitHub" width="49%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=joao00001&show_icons=true&theme=dracula&include_all_commits=true&count_private=true" alt="Estatísticas de João Marcelo no GitHub" heigth="49%"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=joao00001&layout=compact&langs_count=7&theme=dracula" alt="Linguagens mais usadas por João Marcelo" width="49%"/>
 </p>
 
