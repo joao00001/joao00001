@@ -20,13 +20,6 @@
 <p align="center">
   <img src="https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,nodejs,python,java,html,css,tailwind,styledcomponents,git,github,vscode,figma" alt="Habilidades e Ferramentas"/>
 </p>
-<p align="center">
-  <sub>**Frontend:** React, Next.js, HTML5, CSS3, JavaScript (ES6+), TypeScript, TailwindCSS</sub>
-  <br>
-  <sub>**Backend:** Node.js, Python, Java</sub>
-  <br>
-  <sub>**Ferramentas:** Git, GitHub, VSCode, Figma</sub>
-</p>
 
 ---
 
